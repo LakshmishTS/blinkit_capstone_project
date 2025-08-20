@@ -5,9 +5,6 @@ This project covers data cleaning, analysis, and interactive dashboards to deriv
 
 ---
 
-
----
-
 ## 🛠️ Tools & Technologies
 - **Python**: NumPy, Pandas (data cleaning & EDA)
 - **SQL**: Querying & business insights
@@ -21,16 +18,6 @@ This project covers data cleaning, analysis, and interactive dashboards to deriv
 - Found seasonal trends in sales, enabling better demand forecasting.
 - Customer segmentation helped highlight high-value buyers.
 - Interactive dashboards provide actionable insights for business decisions.
-
----
-
-## 📊 Dashboards
-
-### 🔹 Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
-
-### 🔹 Excel Dashboard
-![Excel Dashboard](images/excel_dashboard.png)
 
 ---
 
