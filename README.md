@@ -1,5 +1,7 @@
 # Blinkit Capstone Project 📊
 
+![Blinkit Dashboard](blinkit_final_dashboard_powerBI/blinkit.png)
+
 An **end-to-end data analytics project** on Blinkit using **Python, SQL, Power BI, and Excel**.  
 This project covers data cleaning, analysis, and interactive dashboards to derive business insights.
 
